@@ -155,4 +155,5 @@ CI/CD pipelines automate code testing, building, and deployment, ensuring rapid 
 - `backend/` – All backend code (Django, Node.js, etc.)
 
 
+## Database Design
 
